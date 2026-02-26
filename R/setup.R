@@ -1,0 +1,22 @@
+# Optional: install all required packages in one go (run once)
+install.packages(
+  c(
+    "pharmaversesdtm", 
+    "admiral",
+    "rtables", 
+    "tern", 
+    "formatters",
+    "rlistings", 
+    "tfrmt", 
+    "xportr", 
+    "diffdf",
+    "survival", 
+    "broom", 
+    "ggplot2", 
+    "scales",
+    "dplyr", 
+    "tidyr", 
+    "tibble", 
+    "lubridate"
+  )
+)
